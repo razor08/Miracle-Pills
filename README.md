@@ -1,5 +1,11 @@
 # Miracle-Pills
 
+Practice application for checking out UI views and their applications in Xcode. This is a static application(none of the data entered is saved).
+
+
+The following screenshots are from iPhone 7 Plus Simulator running iOS 10.3 on Xcode 8.3
+
+
 Screenshots for the Application: 
 
 <p align="center">
